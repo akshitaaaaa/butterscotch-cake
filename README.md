@@ -1,1 +1,1 @@
-# butterscotch-cake
+The butterscotch cake is a vanila cake with the addition of some butterscotch flavour(It's a classic buttercream made with butter, powdered sugar and some cream or milk, but it's got the addition of melted butterscotch chips. An entire bag of melted butterscotch chips).
